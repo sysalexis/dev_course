@@ -1,2 +1,1 @@
-dev_course
-==========
+Edit after import.
